@@ -62,8 +62,8 @@ Currently working as **Machine Learning Intern** at **Up Skill Campus (Remote)**
 <div align="center">
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/contribution-history">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=contribution-history&theme=radical" />
+  <a href="https://github.com/archit2501/Smartbin-WBC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Smartbin-WBC&theme=radical" />
   </a>
   <a href="https://github.com/archit2501/archit2501">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=archit2501&theme=radical" />
@@ -71,20 +71,20 @@ Currently working as **Machine Learning Intern** at **Up Skill Campus (Remote)**
 </div>
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/Smartbin-WBC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Smartbin-WBC&theme=radical" />
+  <a href="https://github.com/archit2501/Architflix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Architflix&theme=radical" />
   </a>
-  <a href="https://github.com/archit2501/insurancebrokeragesys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=insurancebrokeragesys&theme=radical" />
+  <a href="https://github.com/archit2501/AI-wardrobe-stylist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=AI-wardrobe-stylist&theme=radical" />
   </a>
 </div>
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/Architflix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Architflix&theme=radical" />
+  <a href="https://github.com/archit2501/enhanced-anomaly-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=enhanced-anomaly-detection-system&theme=radical" />
   </a>
-  <a href="https://github.com/archit2501/Alankar-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Alankar-&theme=radical" />
+  <a href="https://github.com/archit2501/ngo-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=ngo-website&theme=radical" />
   </a>
 </div>
 
@@ -104,7 +104,7 @@ Generated data visualizations using matplotlib and seaborn for final project pre
 Collaborated in a 5-member remote team, contributing to a fully documented and reproducible codebase via Git.
 Applied supervised learning algorithms via scikit-learn, benchmarking model performance using RMSE and accuracy metrics.
 
-**Technologies:** pandas, NumPy, matplotlib, seaborn, Git, scikit-learn
+**Technologies:** Random Forest, Decision Tree, pandas, NumPy, matplotlib, seaborn, Git, scikit-learn
 
 ---
 
