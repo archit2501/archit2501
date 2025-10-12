@@ -1,148 +1,67 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Archit Jain</h1>
+<h3 align="center">Full stack Developer</h3>
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Archit%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer&descAlignY=60&descSize=20" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=archit2501">
+    <img src="https://komarev.com/ghpvc/?username=archit2501&label=Profile%20views&color=00FFFF&style=flat-square" alt="archit2501's profile views" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Frontend%20Developer;Computer%20Science%20student%20at%20Amity%20University%2C%20Noida.;Building+the+future+through+code+✨;Always+learning%2C+always+growing+🚀" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-</div>
+## 📌 About Me
+- Computer Science student at Amity University, Noida.
+- Currently working as Machine Learning Intern at Up Skill Campus (Remote), where I focus on Built and optimized ML models (Random Forest, Decision Tree) to forecast traffic patterns
 
-## 🧑‍💻 About Me
 
-<img align="right" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+## 🧠 My Focus Areas
+- Web Development, Machine Learning, MCP, AI
 
-Computer Science student at Amity University, Noida.
 
-Currently working as **Machine Learning Intern** at **Up Skill Campus (Remote)**, where I focus on Built and optimized ML models (Random Forest, Decision Tree) to forecast traffic patterns, improving...
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archit2501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="archit2501's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=archit2501&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="archit2501's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=archit2501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Archit Jain's GitHub Trophies" />
+</p>
 
-<div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=archit2501.archit2501" />
-</div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=archit2501&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archit2501&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit2501&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archit2501&theme=react-dark&hide_border=true" />
-</div>
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
+## 🛠️ Languages & Tools
 
 ### Programming Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-</div>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
-### Frameworks & Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform logo" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
-  <img src="https://skillicons.dev/icons?i=springboot" height="40" alt="Springboot logo" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="Py Torch logo" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="Scikit-learn logo" />
-</div>
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
 
-</div>
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🚀 Featured Projects
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center">
+### DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/Smartbin-WBC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Smartbin-WBC&theme=radical" />
-  </a>
-  <a href="https://github.com/archit2501/archit2501">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=archit2501&theme=radical" />
-  </a>
-</div>
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/Architflix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=Architflix&theme=radical" />
-  </a>
-  <a href="https://github.com/archit2501/AI-wardrobe-stylist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=AI-wardrobe-stylist&theme=radical" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archit2501&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/archit2501/enhanced-anomaly-detection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=enhanced-anomaly-detection-system&theme=radical" />
-  </a>
-  <a href="https://github.com/archit2501/ngo-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=archit2501&repo=ngo-website&theme=radical" />
-  </a>
-</div>
-
-</div>
-
-## 💼 Professional Journey
-
-<details>
-<summary>📈 Career Timeline</summary>
-
-### 1. Machine Learning Intern @ Up Skill Campus (Remote)
-**Jun2025-Jul2025**
-
-Built and optimized ML models (Random Forest, Decision Tree) to forecast traffic patterns, improving prediction accuracy by 18%.
-Cleaned and processed 15,000+ data points using pandas and NumPy to enable robust model training.
-Generated data visualizations using matplotlib and seaborn for final project presentation to mentors and peers.
-Collaborated in a 5-member remote team, contributing to a fully documented and reproducible codebase via Git.
-Applied supervised learning algorithms via scikit-learn, benchmarking model performance using RMSE and accuracy metrics.
-
-**Technologies:** Random Forest, Decision Tree, pandas, NumPy, matplotlib, seaborn, Git, scikit-learn
-
----
-
-</details>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<h3>💬 Ready to bring ideas to life? Let's chat!</h3>
-
-<a href="mailto:architjain2501@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-  <a href="https://www.linkedin.com/in/architjain01">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-  <a href="https://github.com/archit2501">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch my commits get eaten!
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/architjain01" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Archit Jain's LinkedIn"/></a> <a href="mailto:architjain2501@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Archit Jain's Email"/></a> <a href="https://architjain.me/contact" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/archit2501/archit2501/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/archit2501/archit2501/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/archit2501/archit2501/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3>💭 Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
