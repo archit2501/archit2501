@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=archit2501&theme=tokyonight&hide_border=true" alt="archit2501's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=archit2501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Archit Jain's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=archit2501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Archit Jain's GitHub Trophies" />
 </p>
 
 
